@@ -1,0 +1,2 @@
+# PyTrdr
+Follow tutorial video
